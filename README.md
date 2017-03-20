@@ -1,4 +1,4 @@
-## DooM Squad Airsoft
+## Doom Squad Airsoft
 
 We are a recreational airsoft clan based in Spokane, Washington, USA, Earth.
 
