@@ -5,7 +5,7 @@ We are a recreational airsoft clan based in Spokane, Washington, USA, Earth.
 
 ### Upcoming Events
 
-Join us in April 2017 for [Operation: Green Fox](http://evite.me/aKuzQtd45Q)
+Join us in April 2017 for [Operation: Green Fox](http://evite.me/Xcy9BNxshj)
 
 
 ### Photo Gallery
