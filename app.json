@@ -1,0 +1,9 @@
+{
+  "name": "doomsquad-website",
+  "description": "Doom Squad Airsoft informational website",
+  "website": "https://doomsquadairsoft.com/",
+  "repository": "https://github.com/doomsquadairsoft/doomsquad-website",
+  "buildpacks": [
+    "url": "https://github.com/heroku/heroku-buildpack-php"
+  ]
+}

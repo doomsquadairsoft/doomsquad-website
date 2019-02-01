@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "DSEG7";
+  src: url(/assets/fonts/DSEG7Modern-Regular.ttf) format("truetype")
+}
+.seven-segment {
+  font-family: "DSEG7", Verdana, Tahoma;
+  font-size: 18px;
+}
